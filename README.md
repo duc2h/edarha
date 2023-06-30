@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edarha
+- 👋 Hi, I’m @duc2h
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning Devops
 
